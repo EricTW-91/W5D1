@@ -61,6 +61,14 @@ if(int == randomNum){
 
 
 // Q5???
+let array5 = [23, 6, 19, 38, 50];
+let givenArray5 = [35, 46, 24, 7, 68, 94];
+
+for(i=0; i<givenArray5.length; i++){
+    array5[i] = givenArray5[i];
+}
+
+console.log("Q5: " + array5);
 
 
 // Q6
