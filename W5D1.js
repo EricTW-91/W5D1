@@ -9,8 +9,8 @@ for(i=0; i<=triangle.length; i++){
 }
 
 let secMin = Math.min(...triangle);
-let result1 = firstMin * secMin / 2;
-console.log("A1: " + result1);
+// let result1 = firstMin * secMin / 2;
+console.log("A1: " + firstMin * secMin / 2);
 
 
 // Find two minimum value
